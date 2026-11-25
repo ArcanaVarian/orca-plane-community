@@ -1,0 +1,21 @@
+{
+  "grouped_by": null,
+  "sub_grouped_by": null,
+  "total_count": 1,
+  "next_cursor": "200:1:0",
+  "prev_cursor": "200:-1:1",
+  "next_page_results": false,
+  "prev_page_results": false,
+  "count": 1,
+  "total_pages": 1,
+  "total_results": 1,
+  "extra_stats": null,
+  "results": [
+    {
+      "id": "fb30c91e-7aec-4d3e-a3c3-41b7c7cd237c",
+      "is_member": true,
+      "identifier": "DIOGEN",
+      "archived_at": null
+    }
+  ]
+}

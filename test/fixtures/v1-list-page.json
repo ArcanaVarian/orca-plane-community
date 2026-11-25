@@ -1,0 +1,49 @@
+{
+  "grouped_by": null,
+  "sub_grouped_by": null,
+  "total_count": 2,
+  "next_cursor": "200:1:0",
+  "prev_cursor": "200:-1:1",
+  "next_page_results": false,
+  "prev_page_results": false,
+  "count": 2,
+  "total_pages": 1,
+  "total_results": 2,
+  "extra_stats": null,
+  "results": [
+    {
+      "id": "5959f5af-d79e-45a2-b16c-01325505e387",
+      "updated_at": "2026-11-16T13:35:07.450764Z",
+      "name": "<name>",
+      "priority": "high",
+      "sequence_id": 96,
+      "state": {
+        "id": "6a9667e2-e105-4cc2-a570-b7e23be29683",
+        "name": "<name>",
+        "color": "#60646C",
+        "group": "unstarted"
+      },
+      "assignees": [
+        "d9371857-5d13-4306-abe9-f3aefb05f40e"
+      ],
+      "labels": []
+    },
+    {
+      "id": "4b448b4c-94bc-4f47-ba5d-4aec0fe69d2b",
+      "updated_at": "2026-11-16T18:20:38.353144Z",
+      "name": "<name>",
+      "priority": "low",
+      "sequence_id": 449,
+      "state": {
+        "id": "cbad6ec9-597f-4aa4-9b47-38ee6e7848ce",
+        "name": "<name>",
+        "color": "#F59E0B",
+        "group": "started"
+      },
+      "assignees": [
+        "d9371857-5d13-4306-abe9-f3aefb05f40e"
+      ],
+      "labels": []
+    }
+  ]
+}
